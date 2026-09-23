@@ -13,6 +13,6 @@ struct CarListing: Identifiable {
     var model: String
     var year: Int
     var price: Double
-    var mileAge: Double
+    var mileage: Double
     var imageName: String
 }
